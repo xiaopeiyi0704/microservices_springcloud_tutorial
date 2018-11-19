@@ -1,0 +1,4 @@
+--------------------------------------------------microservices--------------------------------------------------
+REST
+Small well chosen deployable units
+Cloud enabled
