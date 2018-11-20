@@ -1,4 +1,15 @@
 --------------------------------------------------microservices--------------------------------------------------
+Three factors of micro services
+==========================================
 REST
 Small well chosen deployable units
 Cloud enabled
+
+
+The challenge of micro services
+==========================================
+bounded context (how to decide the number of micro services)
+configuration management (there canbe many kinds of services, and each service can run on manay instances. So how to make configuration easier)
+scalability(how to dynamic scale up and down )
+visiablity (How to know the status of any one of services. If there are many services, if there is one down, we need to know which one is down.)
+dependency (if the services depend on each other, if one down, how to let others continue workings)
